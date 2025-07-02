@@ -1,0 +1,2 @@
+If early adult is true than the racer is an adult that signed up early. If false then they did not.
+Allows user to input racer's age and generates a random number based on age and whether they are an ealry adult or not.
