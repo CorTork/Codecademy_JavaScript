@@ -1,0 +1,1 @@
+This program acts just like a magic 8-ball. Just insert your name in the first variable and type a question in the second variable and a random number will be generated with the 8-ball's answer.
